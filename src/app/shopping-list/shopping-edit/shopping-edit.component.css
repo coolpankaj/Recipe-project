@@ -1,0 +1,7 @@
+div.custom-button button {
+    margin-right: 16px;
+}
+
+div.custom-button button:last-child {
+    margin-right: 0px;
+}
